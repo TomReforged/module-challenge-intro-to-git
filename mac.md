@@ -10,3 +10,20 @@ Now that you are all set up, it's time to learn a little more about the tools of
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
 7. What is a merge conflict?
 8. How do you resolve a merge conflict?
+
+1. Git is a system that is used to help control and push projects to and from Github
+
+2.Git is what is typed and used within the terminal, Github is a place where everything is stored.
+
+3.So that we don't make mistakes on the main.
+
+4. Pull requests lets me tell others what I have changed and pushed to a branch.
+
+5.I think the command is cd then the name of the branch or if you want to go back up one you would do cd ..
+
+6.I think git fetch is the safer version of git pull. It pulls the files without making any changes to my local files. I think git merge is putting all the files 
+back to the main branch.
+
+7.When multiple people are changing the same code.
+
+8.Make a new commit? or open it and make changes as necessary.
